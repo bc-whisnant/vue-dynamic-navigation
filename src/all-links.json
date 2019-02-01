@@ -1,0 +1,464 @@
+{
+  "companiesLinks": [
+    {
+      "id": "builder",
+      "name": "Home Builders",
+      "linkref": "/company/builder/"
+    },
+    {
+      "id": "eep",
+      "name": "Program Sponsors",
+      "linkref": "/company/eep/"
+    },
+    {
+      "id": "provider",
+      "name": "Providers",
+      "linkref": "/company/provider/"
+    },
+    {
+      "id": "rater",
+      "name": "Rating Companies",
+      "linkref": "/company/rater/"
+    },
+    {
+      "id": "utility",
+      "name": "Utility Companies",
+      "linkref": "/company/utility/"
+    },
+    {
+      "id": "hvac",
+      "name": "HVAC Contractors",
+      "linkref": "/company/hvac/"
+    },
+    {
+      "id": "qa",
+      "name": "QA/QC Companies",
+      "linkref": "/company/qa/"
+    },
+    {
+      "id": "general",
+      "name": "General Companies",
+      "linkref": "/company/general/"
+    },
+    {
+      "id": "epa_directory_list",
+      "name": "EPA Directory",
+      "linkref": "/epa_registry/list/"
+    }
+  ],
+  "placesLinks": [
+    {
+      "id": "community_list",
+      "name": "Communities",
+      "linkref": "/community/"
+    },
+    {
+      "id": "subdivision_list",
+      "name": "Subdivisions",
+      "linkref": "/subdivision/"
+    },
+    {
+      "id": "home_list",
+      "name": "Homes",
+      "linkref": "/home/"
+    },
+    {
+      "id": "floorplan_list",
+      "name": "Floorplans",
+      "linkref": "/floorplan/"
+    }
+  ],
+  "placesTrcLinks": [
+    {
+      "id": "",
+      "name": "Projects",
+      "linkref": "/certification/s/project/"
+    },
+    {
+      "id": "",
+      "name": "Buildings",
+      "linkref": "/certification/building/"
+    }
+  ],
+  "placesApsLinks": [
+    {
+      "id": "aps_legacy_builder_list",
+      "name": "Builders",
+      "linkref": "/aps/legacy/builder/"
+    },
+    {
+      "id": "aps_legacy_subdivision_list",
+      "name": "Subdivisions",
+      "linkref": "/aps/legacy/subdivision/"
+    },
+    {
+      "id": "aps_legacy_home_list",
+      "name": "Homes",
+      "linkref": "/aps/legacy/home/"
+    }
+  ],
+  "placesNeeaLinks": [
+    {
+      "id": "aps_legacy_home_list",
+      "name": "Partners",
+      "linkref": "/neea/partner/list/"
+    },
+    {
+      "id": "neea_legacy_home_list",
+      "name": "Homes",
+      "linkref": "/neea/home/list/"
+    }
+  ],
+  "tasksAddLinks": [
+    {
+      "id": "home_add",
+      "name": "Add Home",
+      "linkref": "/home/add/"
+    },
+    {
+      "id": "floorplan_add",
+      "name": "Add Floorplan",
+      "linkref": "/floorplan/add//"
+    },
+    {
+      "id": "subdivision_add",
+      "name": "Add Subdivision",
+      "linkref": "/subdivision/add/"
+    },
+    {
+      "id": "community_add",
+      "name": "Add Community",
+      "linkref": "/community/add/"
+    }
+  ],
+  "tasksTrcLinks": [
+    {
+      "id": "",
+      "name": "Add Project",
+      "linkref": "/certification/project/add/"
+    },
+    {
+      "id": "",
+      "name": "Add Building",
+      "linkref": "/certification/building/add/"
+    },
+    {
+      "id": "",
+      "name": "Subdivision Enrollment",
+      "linkref": "/agreement/"
+    },
+    {
+      "id": "provider_dashboard",
+      "name": "Provider Dashboard",
+      "linkref": "/home/report/provider/"
+    },
+    {
+      "id": "single_home_upload",
+      "name": "Single Home Upload",
+      "linkref": "/home/single_upload/"
+    },
+    {
+      "id": "bulk_completed_checklist_upload",
+      "name": "Bulk Checklist Upload",
+      "linkref": "/checklist/bulk/upload/"
+    },
+    {
+      "id": "eep_program_list",
+      "name": "Programs",
+      "linkref": "/eep_program/"
+    },
+    {
+      "id": "builder_agreement_list",
+      "name": "Builder Agreements",
+      "linkref": "/builder_agreement/"
+    },
+    {
+      "id": "ipp_control_center",
+      "name": "Incentive Processing",
+      "linkref": "/ipp/control_center/ "
+    },
+    {
+      "id": "incentive_payments_status",
+      "name": "Incentive Payments",
+      "linkref": "/ipp/pending/"
+    },
+    {
+      "id": "remrate_blg_convert",
+      "name": "REM/Rate BLG → XML",
+      "linkref": "/remrate/blg_convert/"
+    },
+    {
+      "id": "aps_meterset_import",
+      "name": "Meter Set Import",
+      "linkref": "/aps/meterset/"
+    },
+    {
+      "id": "rtf_calculator",
+      "name": "RTF Calculator",
+      "linkref": "/neea/rtf_calculator/"
+    },
+    {
+      "id": "checklist_list",
+      "name": "Checklists",
+      "linkref": "/checklist/checklist/"
+    },
+    {
+      "id": "sampling_control",
+      "name": "Sampling Control",
+      "linkref": "/sampling/control_center/"
+    },
+    {
+      "id": "message_list",
+      "name": "Message Center",
+      "linkref": "/messaging/"
+    },
+    {
+      "id": "ssociations_dashboard",
+      "name": "Home Sharing",
+      "linkref": "/relationship/shared/"
+    },
+    {
+      "id": "user_add",
+      "name": "Add User",
+      "linkref": "/registration/register/"
+    }
+  ],
+  "reportsLinks": [
+    {
+      "id": "home_status_report",
+      "name": "Home Status Report",
+      "linkref": "/home/report/status/"
+    },
+    {
+      "id": "builder_signed_report",
+      "name": "Builder Signed Report",
+      "linkref": "/builder_agreement/report/agreement_status/"
+    },
+    {
+      "id": "processed_documents_list",
+      "name": "Processed Documents",
+      "linkref": "/file-operation/document/"
+    },
+    {
+      "id": "remrate_list",
+      "name": "REM/Rate™ Data",
+      "linkref": "/floorplan/input/remrate/"
+    },
+    {
+      "id": "ekotrope_list",
+      "name": "Ekotrope Data",
+      "linkref": "/floorplan/input/ekotrope/"
+    },
+    {
+      "id": "checklist_failure_report",
+      "name": "Checklist Failure Report",
+      "linkref": "/checklist/answer/review/"
+    },
+    {
+      "id": "ipp_checks_list",
+      "name": "Incentive Checks",
+      "linkref": "/ipp/"
+    },
+    {
+      "id": "ipp_pending_failure_report",
+      "name": "Pending Incentive Payment Failure",
+      "linkref": "/ipp/failure/"
+    },
+    {
+      "id": "neea_utility_report",
+      "name": "NEEA Utility Report",
+      "linkref": "/neea/utility/report/ "
+    }
+  ],
+  "reportsPrintingLinks": [
+    {
+      "id": "estar_labels",
+      "name": "ENERGY STAR Labels",
+      "linkref": "/home/report/energystar/"
+    },
+    {
+      "id": "eto_eps_report",
+      "name": "EPS Report",
+      "linkref": "/eto/eps/"
+    },
+    {
+      "id": "home_certs",
+      "name": "Home Certificates",
+      "linkref": "/home/report/certificate/"
+    },
+    {
+      "id": "energy_costs",
+      "name": "Energy Costs",
+      "linkref": "/report/energy_costs/subdivision/"
+    }
+  ],
+  "reportsExtraLinks": [
+    {
+      "id": "builder_contact_report",
+      "name": "Builder Contact Report",
+      "linkref": "/company/report/builder/"
+    },
+    {
+      "id": "provider_contact_report",
+      "name": "Provider Contact Report",
+      "linkref": "/company/report/provider/"
+    },
+    {
+      "id": "rater_contact_report",
+      "name": "Rater Contact Report",
+      "linkref": "/company/report/rater/"
+    },
+    {
+      "id": "utility_contact_report",
+      "name": "Utility Contact Report",
+      "linkref": "/company/report/utility/"
+    },
+    {
+      "id": "qa_contact_report",
+      "name": "QA Contact Report",
+      "linkref": "/company/report/qa/"
+    },
+    {
+      "id": "hvac_contact_report",
+      "name": "HVAC Contact Report",
+      "linkref": "/company/report/hvac/"
+    }
+  ],
+  "reportsSearchDbLinks": [
+    {
+      "id": "Search Database",
+      "name": "Search Database",
+      "linkref": "/search/"
+    }
+  ],
+  "resourcesLinks": [
+    {
+      "id": "neea_model_requirements",
+      "name": "Northwest Modeling Requirements",
+      "linkref": "https://betterbuiltnw.com/resources/browse?id=2595"
+    },
+    {
+      "id": "neea_remrate_library",
+      "name": "REM/Rate UDRHs",
+      "linkref": "https://betterbuiltnw.com/resources/browse?id=2588"
+    },
+    {
+      "id": "neea_betterbuiltNW_website",
+      "name": "BetterBuiltNW",
+      "linkref": "https://betterbuiltnw.com/"
+    },
+    {
+      "id": "neea_water_heater_list",
+      "name": "Water Heater List",
+      "linkref": "https://neea.org/img/documents/qualified-products-list.pdf"
+    },
+    {
+      "id": "neea_clothes_dryer",
+      "name": "Clothes Dryer List",
+      "linkref": "https://conduitnw.org/Pages/File.aspx?rid=2844"
+    }
+  ],
+  "supportLinks": [
+    {
+      "id": "support",
+      "name": "Support",
+      "linkref": "http://support.pivotalenergysolutions.com/login"
+    },
+    {
+      "id": "admin",
+      "name": "Admin",
+      "linkref": "/admin"
+    },
+    {
+      "id": "impersonate",
+      "name": "Impersonate",
+      "linkref": "/impersonate/list/?next=/"
+    },
+    {
+      "id": "system_messenger",
+      "name": "System Messenger",
+      "linkref": "/system-messenger/"
+    },
+    {
+      "id": "rabbitmq",
+      "name": "RabbitMQ",
+      "linkref": "/rabbitmq"
+    },
+    {
+      "id": "splunk",
+      "name": "Splunk Analytics",
+      "linkref": "https://analytics.pivotalenergy.net"
+    },
+    {
+      "id": "status",
+      "name": "Status",
+      "linkref": "/status.html"
+    },
+    {
+      "id": "analytics",
+      "name": "Google Analytics",
+      "linkref": "https://www.google.com/analytics/web/?hl=en&amp;pli=1#home/a26647319w51473920p52173021/"
+    },
+    {
+      "id": "webmaster_tools",
+      "name": "Google Webmaster Tools",
+      "linkref": "https://www.google.com/webmasters/tools/dashboard?hl=en&amp;siteUrl=http%3A%2F%2Faxis.pivotalenergy.net%2F"
+    }
+  ],
+  "supportAmazonConsoleLinks": [
+    {
+      "id": "ec2",
+      "name": "EC2",
+      "linkref": "https://console.aws.amazon.com/ec2/home?region=us-west-1#"
+    },
+    {
+      "id": "rds",
+      "name": "RDS",
+      "linkref": "https://console.aws.amazon.com/rds/home?region=us-west-1"
+    },
+    {
+      "id": "elasticache",
+      "name": "ElastiCache",
+      "linkref": "https://console.aws.amazon.com/elasticache/home?region=us-west-1"
+    },
+    {
+      "id": "route_53",
+      "name": "Route 53",
+      "linkref": "https://console.aws.amazon.com/route53/home?region=us-west-1"
+    },
+    {
+      "id": "cloud_watch",
+      "name": "Cloud Watch",
+      "linkref": "https://console.aws.amazon.com/cloudwatch/home?region=us-west-1"
+    }
+  ],
+  "supportCpuLoadingLinks": [
+    {
+      "id": "production_load",
+      "name": "Production CPU Load",
+      "linkref": "https://console.aws.amazon.com/cloudwatch/home?region=us-west-1#metrics:graph=!D03!E07!ET6!MN5!NS2!PD1!SS4!ST0!VA-PT6H~300~AWS%252FEC2~AutoScalingGroup"
+    },
+    {
+      "id": "beta_load",
+      "name": "Beta CPU Load",
+      "linkref": "https://console.aws.amazon.com/cloudwatch/home?region=us-west-1#metrics:graph=!D03!E07!ET6!MN5!NS2!PD1!SS4!ST0!VA-PT6H~300~AWS%252FEC2~AutoScalingGroup"
+    },
+    {
+      "id": "demo_load",
+      "name": "Demo CPU Load",
+      "linkref": "https://console.aws.amazon.com/cloudwatch/home?region=us-west-1#metrics:graph=!D03!E07!ET6!MN5!NS2!PD1!SS4!ST0!VA-PT6H~300~AWS%252FEC2~AutoScalingGroup"
+    },
+    {
+      "id": "staging_load",
+      "name": "Staging CPU Load",
+      "linkref": "https://console.aws.amazon.com/cloudwatch/home?region=us-west-1#metrics:graph=!D03!E07!ET6!MN5!NS2!PD1!SS4!ST0!VA-PT6H~300~AWS%252FEC2~AutoScalingGroup"
+    }
+  ],
+  "supportLogoutLink": [
+    {
+      "id": "logout",
+      "name": "Logout",
+      "linkref": "/accounts/logout/"
+    }
+  ]
+}
